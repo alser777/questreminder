@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>alser777.QuestReminder</packageId>
+  <name>Quest Reminder</name>
+  <supportedVersions>
+    <li>1.2</li>
+  </supportedVersions>
+  <author>alser777</author>
+  <description>Version: 1.0
+
+Reminds about quests 1 in-game hour before they expire.</description>
+</ModMetaData>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestReminder", "QuestReminder.csproj", "{292B86B1-DD5D-414F-B2FF-D720CBC00806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build|Any CPU = Build|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292B86B1-DD5D-414F-B2FF-D720CBC00806}.Build|Any CPU.ActiveCfg = Build|Any CPU
+		{292B86B1-DD5D-414F-B2FF-D720CBC00806}.Build|Any CPU.Build.0 = Build|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {139538E8-5C3A-4021-BA81-DED66E0C484B}
+	EndGlobalSection
+EndGlobal
